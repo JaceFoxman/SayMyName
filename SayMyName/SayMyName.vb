@@ -17,6 +17,7 @@ Module SayMyName
         name = Console.ReadLine
         Console.WriteLine()
 
+        Console.Write("Welcome, ")
         Console.Write(name)
         Console.WriteLine()
 
